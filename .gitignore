@@ -1,0 +1,4 @@
+# Borrowed from https://github.com/splunk/splunk-app-splunkgit
+
+# OSX noise
+.DS_Store
